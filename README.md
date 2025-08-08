@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Luiz Fernando 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software na UFBRA 📚 | Dev Fullstack em formação 💻 <br>
+  Estudante de Engenharia de Software na IBMEC 📚 | Dev FRONT-END em formação 💻 <br>
   Apaixonado por tecnologia, organização e resolver problemas com código 🚀
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software (UFBRA, 2024–2028)  
+- 🎓 Estudante de Engenharia de Software (IBMEC, 2025–2029)  
 - 👨‍💼 Aprendiz Administrativo na ComRio desde 08/2024  
 - 🌐 Curso Desenvolvimento Fullstack pela Sujeito Programador (conclusão: 10/2025)  
 - 🛠️ Foco em **HTML, CSS, JavaScript, React.js**, com experiência em projetos práticos
