@@ -51,7 +51,15 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luiz-divino&theme=dracula&hide_border=false"/>
-</p>
+
+---
+
+### 🔥 Estatísticas de linguagens usadas
+  <div align="center">
+    
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz-divino&theme=algolia)
+  </div>
+
 
 ---
 
