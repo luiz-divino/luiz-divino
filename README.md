@@ -10,7 +10,6 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software (IBMEC, 2025–2029)  
-- 👨‍💼 Aprendiz Administrativo na ComRio desde 08/2024  
 - 🌐 Curso Desenvolvimento Fullstack pela Sujeito Programador (conclusão: 10/2025)  
 - 🛠️ Foco em **HTML, CSS, JavaScript, React.js**, com experiência em projetos práticos
 
