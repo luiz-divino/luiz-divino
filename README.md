@@ -11,7 +11,7 @@
 
 - 🎓 Estudante de Engenharia de Software (IBMEC, 2025–2029)  
 - 🌐 Curso Desenvolvimento Fullstack pela Sujeito Programador (conclusão: 10/2025)  
-- 🛠️ Foco em **HTML, CSS, JavaScript, React.js**, com experiência em projetos práticos
+- 🛠️ Foco em **React.js, tailwind, typescript**, com experiência em projetos práticos
 
 ---
 
