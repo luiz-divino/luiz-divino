@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Luiz Fernando 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software na IBMEC 📚 | Dev FRONT-END em formação 💻 <br>
+  Estudante de Engenharia de Software na IBMEC 📚 | Dev BACK-END em formação 💻 <br>
   Apaixonado por tecnologia, organização e resolver problemas com código 🚀
 </p>
 
@@ -9,8 +9,7 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software (IBMEC, 2025–2029)  
-- 🌐 Curso Desenvolvimento Fullstack pela Sujeito Programador (conclusão: 10/2025)  
+- 🎓 Estudante de Engenharia de Software (IBMEC, 2025–2029)   
 - 🛠️ Foco em **React.js, tailwind, typescript**, com experiência em projetos práticos
 
 ---
