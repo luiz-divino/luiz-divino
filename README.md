@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Luiz Fernando 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software na IBMEC 📚 | Dev BACK-END em formação 💻 <br>
+  Estudante de Engenharia de Software na IBMEC 📚 | Dev FULL-STACK JUNIOR em formação 💻 <br>
   Apaixonado por tecnologia, organização e resolver problemas com código 🚀
 </p>
 
@@ -34,6 +34,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=flat)
+![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=fff&style=flat)
 
 ---
 
