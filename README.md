@@ -6,7 +6,7 @@
 
 ### 🚀 Desenvolvedor Full Stack Júnior | Estudante de Engenharia de Software
 
-Sou o **Luiz Fernando**, tenho 20 anos e sou graduando em **Engenharia de Software pelo IBMEC RJ**. Sou apaixonado por transformar ideias em soluções digitais eficientes e escaláveis, focando sempre na melhor experiência para o usuário e na qualidade do código.
+Olá, me chamo **Luiz Fernando**, tenho 20 anos e sou estudante de **Engenharia de Software no IBMEC RJ**. Sou apaixonado por transformar ideias em soluções digitais eficientes e escaláveis, focando sempre na melhor experiência para o usuário e na qualidade do código.
 
 ---
 
