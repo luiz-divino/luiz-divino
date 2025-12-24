@@ -1,72 +1,56 @@
 ![Header](./github-header-banner.png)
 
-<p align="center">
-  Estudante de Engenharia de Software na IBMEC 📚 | Dev FULL-STACK JUNIOR em formação 💻 <br>
-  Apaixonado por tecnologia, organização e resolver problemas com código 🚀
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=200&section=header&text=Luiz%20Fernando&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
+
+### 🚀 Desenvolvedor Full Stack Júnior | Estudante de Engenharia de Software
+
+Sou o **Luiz Fernando**, tenho 20 anos e sou graduando em **Engenharia de Software pelo IBMEC RJ**. Sou apaixonado por transformar ideias em soluções digitais eficientes e escaláveis, focando sempre na melhor experiência para o usuário e na qualidade do código.
 
 ---
 
-### 🧠 Sobre mim
+### 🛠️ Minha Stack Tecnológica
 
-- 🎓 Estudante de Engenharia de Software (IBMEC, 2025–2029)   
-- 🛠️ Foco em **React.js, Tailwind, Typescript**, com experiência em projetos práticos
+#### **Frontend**
+![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=for-the-badge&logo=javascript&logoColor=%23f7df1e)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+#### **Backend & Cloud**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📫 Contato
-
-- 📧 Email: [nandodivinodev@gmail.com](mailto:nandodivinodev@gmail.com)  
-- 💼 LinkedIn: [luiz-fernando-divino](https://linkedin.com/in/luiz-fernando-divino-55598435b)  
-- 💻 GitHub: [luiz-divino](https://github.com/luiz-divino)
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=flat)
-![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?logo=typescript&logoColor=fff&style=flat)
+#### **Ferramentas**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-divino&show_icons=true&theme=dracula&count_private=true&hide=prs&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-divino&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-divino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-divino&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-divino&theme=tokyonight" />
 </div>
 
 ---
 
-### 🔥 Streak de Contribuições
+### 📫 Vamos nos conectar?
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=luiz-divino&theme=dracula&hide_border=false"/>
+Dê uma olhada nos meus repositórios para conhecer meus projetos! Estou sempre aberto a colaborações e novos desafios.
 
----
-
-### 🔥 Estatísticas de linguagens usadas
-  <div align="center">
-    
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz-divino&theme=algolia)
-  </div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 ---
-
-   ![Contagem de visitantes](https://profile-counter.glitch.me/{luiz-divino}/count.svg)
-   
----
-
-### 🚀 “Sempre em busca de evolução constante”
-
-Se você curtiu meu perfil, não esquece de deixar uma ⭐ nos repositórios!
 
