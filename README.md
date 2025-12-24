@@ -49,8 +49,18 @@ Sou o **Luiz Fernando**, tenho 20 anos e sou graduando em **Engenharia de Softwa
 
 Dê uma olhada nos meus repositórios para conhecer meus projetos! Estou sempre aberto a colaborações e novos desafios.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luizsdivino)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandodivinodev@gmail.com)
 
 ---
+
+# Se você gostou do meu trabalho, considere deixar uma estrela ⭐ nos meus repositórios. Seu apoio me motiva a criar cada vez mais!
+
+---
+
+<div align="center">
+  <a href="https://github.com/luiz-divino?tab=repositories">
+    <img src="https://api.star-history.com/svg?repos=luiz-divino/RH-system,luiz-divino/data-validator&type=Date" alt="Star History Chart">
+  </a>
+</div>
 
