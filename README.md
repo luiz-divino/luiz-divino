@@ -1,5 +1,3 @@
-<h1 align="center">Olá! Eu sou o Luiz Fernando 👋</h1>
-
 ![Header](./github-header-banner.png)
 
 <p align="center">
