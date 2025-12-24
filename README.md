@@ -60,6 +60,9 @@
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz-divino&theme=algolia)
   </div>
 
+---
+
+ ![Contagem de visitantes](https://profile-counter.glitch.me/{luiz-divino}/count.svg)
 
 ---
 
