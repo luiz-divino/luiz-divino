@@ -10,7 +10,7 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software (IBMEC, 2025–2029)   
-- 🛠️ Foco em **React.js, tailwind, typescript**, com experiência em projetos práticos
+- 🛠️ Foco em **React.js, Tailwind, Typescript**, com experiência em projetos práticos
 
 ---
 
@@ -61,9 +61,9 @@
   </div>
 
 ---
- <div align="center">
+
    ![Contagem de visitantes](https://profile-counter.glitch.me/{luiz-divino}/count.svg)
- </div>
+   
 ---
 
 ### 🚀 “Sempre em busca de evolução constante”
