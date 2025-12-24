@@ -62,7 +62,7 @@
 
 ---
  <div align="center">
- ![Contagem de visitantes](https://profile-counter.glitch.me/{luiz-divino}/count.svg)
+   ![Contagem de visitantes](https://profile-counter.glitch.me/{luiz-divino}/count.svg)
  </div>
 ---
 
