@@ -1,4 +1,5 @@
 <h1 align="center">Olá! Eu sou o Luiz Fernando 👋</h1>
+![Header](./github-header-banner.png)
 
 <p align="center">
   Estudante de Engenharia de Software na IBMEC 📚 | Dev FULL-STACK JUNIOR em formação 💻 <br>
