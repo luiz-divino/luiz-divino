@@ -1,6 +1,6 @@
-<h5 align="left">Hi, I'm Luiz Fernando! 🚀<br>I'm a Software Engineering student and junior Full-Stack developer, focused on creating scalable web applications. Currently, I'm delving into next.js technology and developing professional management systems.</h5>
+<h4 align="left">Hi, I'm Luiz Fernando! 🚀<br>I'm a Software Engineering student and junior Full-Stack developer, focused on creating scalable web applications. Currently, I'm delving into next.js technology and developing professional management systems.</h4>
 <h6>
-  📧<a href="nandodivinodev@gmail.com"> nandodivinodev@gmail.com<a/>
+  📧<a href="#"> nandodivinodev@gmail.com<a/>
 <h6/>
 
 ###
@@ -9,7 +9,6 @@
 
 ###
 
-<br clear="both">
 
 <h4 align="left">🎨FRONTEND</h4>
 
@@ -37,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="17" />
@@ -48,8 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">🗄️ DATABASE & PERSISTENCE</h4>
 
@@ -108,15 +103,12 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/luizsdivino" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="nandodivinodev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="30" alt="gmail logo"  />
-  </a>
+<a href="mailto:nandodivinodev@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="30" alt="gmail logo" />
+</a>
 </div>
 
 ###
