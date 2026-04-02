@@ -1,4 +1,4 @@
-<h4 align="left">Hi, I'm Luiz Fernando! 🚀<br>I'm a Software Engineering student and junior Full-Stack developer, focused on creating scalable web applications. Currently, I'm delving into next.js technology and developing professional management systems.</h4>
+[<h4 align="left">Hi, I'm Luiz Fernando! 🚀<br>I'm a Software Engineering student and junior Full-Stack developer, focused on creating scalable web applications. Currently, I'm delving into next.js technology and developing professional management systems.</h4>
 <h5>
   📧<a href="#"> nandodivinodev@gmail.com<a/>
 <h5/>
@@ -116,3 +116,4 @@
 <img align="left" src="https://count.getloli.com/@:luiz-divino?theme=booru-r6gdrawfriends&padding=3&offset=0&scale=0.8&align=top&pixelated=1&darkmode=auto"  />
 
 ###
+](https://www.linkedin.com/in/luizsdivino)
