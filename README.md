@@ -85,7 +85,7 @@ Are you looking for a dedicated Junior Fullstack Developer to join your team in 
 
 <div align="left">
   <!-- Substitua os "#" pelos seus links reais -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/luizsdivino/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcpbEhiiPTIS4VyezBxmybg%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:luizfernandodivino.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcur.to%2FfUnr&urlhash=R_fP&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcpbEhiiPTIS4VyezBxmybg%3D%3D"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
 </div>
