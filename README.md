@@ -2,120 +2,90 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/luizsdivino">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:nandodivinodev@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="http://meu-portfolio-rust-gamma.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
-
-## ⭐ Projetos em Destaque
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/luiz-divino/pokedex">Pokedex</a>
-      </h3>
-      <p align="center">
-        App em <b>TypeScript</b> para explorar e pesquisar Pokémons, com interface web e deploy na Vercel.
-        <br/><br/>
-        <a href="https://pokedex-blond-five.vercel.app">Demo</a> •
-        <a href="https://github.com/luiz-divino/pokedex">Repositório</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/luiz-divino/login-system">Login System</a>
-      </h3>
-      <p align="center">
-        Sistema de autenticação feito em <b>TypeScript</b>, focado em praticar fluxos de login e organização de código.
-        <br/><br/>
-        <a href="https://github.com/luiz-divino/login-system">Repositório</a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/luiz-divino/consumindo-api-react">Consumindo API (React)</a>
-      </h3>
-      <p align="center">
-        Projeto em <b>React + TypeScript</b> consumindo API e exibindo dados em uma interface responsiva, com deploy na Vercel.
-        <br/><br/>
-        <a href="https://nutricao-ecru.vercel.app">Demo</a> •
-        <a href="https://github.com/luiz-divino/consumindo-api-react">Repositório</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/luiz-divino/e-commerce">E-commerce</a>
-      </h3>
-      <p align="center">
-        E-commerce em <b>TypeScript</b> com foco em componentes, listagem de produtos e experiência de navegação, publicado na Vercel.
-        <br/><br/>
-        <a href="https://e-commerce-mu-fawn-98.vercel.app">Demo</a> •
-        <a href="https://github.com/luiz-divino/e-commerce">Repositório</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <h1>Hi, I'm Luiz Fernando 👋</h1>
+  
+  <!-- Substitua a URL abaixo se quiser alterar o texto da animação ou as cores -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+Ibmec-RJ;Fullstack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+scalable+web+applications" alt="Typing SVG" />
+  
+  <br>
+  
+  <p><b>Fullstack Developer focused on scalable web applications with React, TypeScript and Node.js.</b></p>
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+I am a 2nd-period **Software Engineering** student at **Ibmec-RJ**, deeply passionate about building scalable, maintainable, and user-centric applications. My technical foundation is rooted in modern web ecosystems, specifically leveraging **React, TypeScript, and Node.js**.
+
+Beyond just writing code, I focus on solid software engineering principles. I actively study and apply **Clean Architecture, SOLID principles, and Design Patterns** to ensure my solutions are robust and ready for production environments. Furthermore, I have a strong interest in **UI/UX design (Figma)**, bridging the gap between high-fidelity prototyping and pixel-perfect frontend implementations.
+
+Currently, I am expanding my technical boundaries, consistently improving my **English proficiency** for global technical immersion, and actively seeking an **internship opportunity in Rio de Janeiro (Barra da Tijuca or Centro)** to contribute to a high-performing engineering team.
+
+<br>
+
+## 🚀 Tech Stack & Tools
+
+### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+### Backend & Database
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+### Tools & Design
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+
+<br>
+
+## ⚙️ Engineering Practices
+
+*To me, code quality is not a feature; it's a requirement. I strictly adhere to:*
+
+*   **Version Control:** Adoption of `Conventional Commits` and `Gitmojis` for clear, semantic, and readable commit histories.
+*   **Architecture:** Focus on modular design, smart componentization, and strict separation of concerns.
+*   **Code Standards:** Implementation of `Clean Code` practices and type safety using TypeScript.
+*   **Documentation:** Structured and professional `README.md` files to clearly explain project scope, setup, and deployment.
+
+<br>
+
+## 💼 Featured Projects
+
+| Project | Description & Impact | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Personal Management System** | A robust backend system featuring secure authentication, user registration, and dynamic role management. Engineered with relational data modeling for scalability. | `Node.js`, `Express`, `Prisma`, `PostgreSQL` | <!-- Insira seus links reais aqui --> [Repo](#) \| [Deploy](#) |
+| **StackCar** | An automotive-themed web application developed for a university evaluation (AP1). Features a modern, fully responsive, and componentized frontend interface. | `React`, `TypeScript`, `Tailwind CSS` | <!-- Insira seus links reais aqui --> [Repo](#) \| [Deploy](#) |
+| **ACBrasil Refactoring** | Complete technical redesign of an institutional website. Solved critical structural errors, improved responsivity, and enhanced UI/UX using high-fidelity Figma prototypes. | `React`, `Figma`, `HTML/CSS` | <!-- Insira seus links reais aqui --> [Repo](#) \| [Deploy](#) |
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <!-- IMPORTANTE: Substitua "SEU_USUARIO" pelo seu username real do GitHub nas duas URLs abaixo -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+## 🗺️ Roadmap & Current Explorations
+
+Continuous evolution is part of my routine. Here is what I am currently exploring:
+*   **Advanced TypeScript:** Generics, advanced utility types, and improving code safety.
+*   **Backend Architecture:** Implementing Clean Architecture patterns in Node.js environments.
+*   **Hardware Integration:** Physical computing and hardware automation utilizing **Arduino Mega 2560** and electronic components.
+*   **Personal Growth:** Consistent English immersion to achieve professional fluency for global opportunities.
+
+<br>
+
+## 📫 Let's Connect!
+
+Are you looking for a dedicated Junior Fullstack Developer to join your team in Rio de Janeiro (Barra da Tijuca or Centro)? Let's have a virtual coffee and discuss how my skills and mindset can add value to your company.
+
+<div align="left">
+  <!-- Substitua os "#" pelos seus links reais -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" /></a>
+</div>
