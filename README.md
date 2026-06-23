@@ -38,7 +38,7 @@ Sou um desenvolvedor Full Stack focado em construir aplicações web escaláveis
 
 ## 💻 Projetos em Destaque
 
-*   **[Sistema de Gestão Pessoal](link-do-repo)**: Um ERP full-stack para finanças e tarefas, construído com React, Node.js, Prisma e PostgreSQL, seguindo Clean Architecture.
+*   **[Sistema de Gestão Pessoal](link-do-repo)**: Uma APIrest para finanças e tarefas, construído com Typescript, Express, Node.js, Prisma e PostgreSQL. Posteriormente será integrada com o frontend.
 *   **[Technical Pokedex](link-do-repo)**: Uma Pokedex de alta performance com React, TypeScript e Tailwind CSS, consumindo a PokeAPI.
 
   ## 📫 Conecte-se Comigo
