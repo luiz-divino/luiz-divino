@@ -38,8 +38,10 @@ Sou um desenvolvedor Full Stack focado em construir aplicações web escaláveis
 
 ## 💻 Projetos em Destaque
 
-*   **[Sistema de Gestão Pessoal](link-do-repo)**: Uma APIrest para finanças e tarefas, construído com Typescript, Express, Node.js, Prisma e PostgreSQL. Posteriormente será integrada com o frontend.
-*   **[Technical Pokedex](link-do-repo)**: Uma Pokedex de alta performance com React, TypeScript e Tailwind CSS, consumindo a PokeAPI.
+*   **[Sistema de Gestão Pessoal](https://github.com/luiz-divino/management_system)**: Uma APIrest para finanças e tarefas, construído com Typescript, Express, Node.js, Prisma e PostgreSQL. Posteriormente será integrada com o frontend.
+*   **[Site institucional](https://github.com/luiz-divino/grupo3_PFE.2026-1.react)**: Site institucional desenvolvido para a empresa ACBRASIL(ASSOCIAÇÃO DE CONSELHEIROS DO BRASIL), em equipe, durante a minha graduação em eng de software no IBMEC. O site foi criado com react js e CSS, além do uso da metodologia ágil SCRUM. Consumimos uma API do wordpress com artigos e newsletter da empresa, exibindo os mesmos de forma responsviva e organizada.
+*   **[e-commerce shopsmart](https://github.com/luiz-divino/shopsmart_ecommerce_vanilla)**: E-commerce construido com html, css e javascript(vanilla) consumido a api de produtos do DUMMYJSON, com as funcionalidades de adicionar e remover do carrinho, além de finalizar compra.
+*   **[Technical Pokedex](https://github.com/luiz-divino/pokedex)**: Uma Pokedex de alta performance com React, TypeScript e Tailwind CSS, consumindo a PokeAPI.
 
   ## 📫 Conecte-se Comigo
 
