@@ -48,4 +48,4 @@ Sou um desenvolvedor Full Stack focado em construir aplicações web escaláveis
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/luizsdivino/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/divinoluiz01)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:luizfernandodivino.dev@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://nandodivino.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://divinodev.vercel.app/)
